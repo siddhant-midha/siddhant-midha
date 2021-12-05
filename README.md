@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 <!--
 **siddhant-midha/siddhant-midha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Siddhant Midha, a second year undergrad in the Electrical Engineering department at IIT Bombay. Feel free to visit [my website](https://siddhant-midha.github.io/) to know more about me.
